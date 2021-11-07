@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atYarisi", "atYarisi\atYarisi.csproj", "{2C15A3DD-43CD-4F47-90F7-A708255E42DD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "At Yarışı v1.0", "At Yarışı v1.0\At Yarışı v1.0.vdproj", "{FFA8E763-455B-46C1-B048-0F3135F25B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C15A3DD-43CD-4F47-90F7-A708255E42DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C15A3DD-43CD-4F47-90F7-A708255E42DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C15A3DD-43CD-4F47-90F7-A708255E42DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C15A3DD-43CD-4F47-90F7-A708255E42DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA8E763-455B-46C1-B048-0F3135F25B7E}.Debug|Any CPU.ActiveCfg = Debug
+		{FFA8E763-455B-46C1-B048-0F3135F25B7E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {478BEB27-42EA-46B8-A99E-FC56B2E09223}
+	EndGlobalSection
+EndGlobal
